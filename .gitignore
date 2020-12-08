@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+Pipfile.lock
+Procfile
+Pipfile
+runtime.txt
+requirements.txt
 
 # C extensions
 *.so
